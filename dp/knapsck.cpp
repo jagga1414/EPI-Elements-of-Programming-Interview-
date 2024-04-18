@@ -24,10 +24,8 @@ int mini(vector<int> &arr,int i,int ts){
 }
 
 int main(){
-
     vector<int> wt;
     vector<int> val;
     int i = 0,W = 10;
     cout<<knap(wt,val,i,W);
-
 }
