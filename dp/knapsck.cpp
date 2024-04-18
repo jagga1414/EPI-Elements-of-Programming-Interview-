@@ -20,9 +20,6 @@ int mini(vector<int> &arr,int i,int ts){
     if(i>=arr.size()){
         return 0;
     }
-    if(abs(tg-mini(arr,i+1,ts)+arr[i]),tg-mini(arr,i+1,tg)){
-        return mini
-    }
 
 }
 
